@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdel1AHM
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning web devalopement
+- 👀 Coding is my Hobby 
+- 🌱 I like to build and organize things
 - ⚡ Fun fact: I don't have one !
 
 <!---
